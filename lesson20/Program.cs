@@ -40,25 +40,24 @@ namespace lesson20
             #endregion
             #region Practice4
 
-            int i = 1;
-                for(int j = 1; j <= 9; i++)
-                {
-                    Console.Write("{0}X{1}={2}\t", i, j, i * j);
-                    if(i == j)
-                    {
-                        Console.WriteLine();
-                        i = 0;
-                        j++;
-                    }
-                }
-
-                
-            
-            //1 1 
-            //1 2  2 2
-            //1 3  2 3  3 3
-            //1 4  2 4  3 4  4 4
+            //int i = 1;
+            //    for(int j = 1; j <= 9; i++)
+            //    {
+            //        Console.Write("{0}X{1}={2}\t", i, j, i * j);
+            //        if(i == j)
+            //        {
+            //            Console.WriteLine();
+            //            i = 0;
+            //            j++;
+            //        }
+            //    }
+            ////1 1 
+            ////1 2  2 2
+            ////1 3  2 3  3 3
+            ////1 4  2 4  3 4  4 4
+            ///
             #endregion
+
         }
     }
 }
