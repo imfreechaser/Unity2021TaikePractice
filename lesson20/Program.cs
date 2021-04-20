@@ -57,9 +57,40 @@ namespace lesson20
             ////1 4  2 4  3 4  4 4
             ///
             #endregion
+            #region Practice5
+
+            //for(int i = 1; i <= 10; i++)
+            //{
+            //    if(i == 1 || i == 10)
+            //    {
+            //        Console.WriteLine("**********\n");
+            //    }
+            //    else
+            //    {
+            //        Console.WriteLine("*        *\n");
+            //    }
+            //}
+
+            #endregion
+            #region Practice6
+
+            for (int i = 1; i <= 10; i++)
+            {
+                    for (int j = 1; j <= i; j++)
+                    {
+                        Console.Write("*");
+                    }
+                    Console.WriteLine();
+                    Console.WriteLine();
+            }
+
+
+            #endregion
+            #region Practice7
 
 
 
+            #endregion
         }
     }
 }
