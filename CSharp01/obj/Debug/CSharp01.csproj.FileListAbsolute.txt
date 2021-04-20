@@ -1,0 +1,7 @@
+C:\Users\Erina\source\repos\Unity2021TaikePractice\CSharp01\bin\Debug\CSharp01.exe.config
+C:\Users\Erina\source\repos\Unity2021TaikePractice\CSharp01\bin\Debug\CSharp01.exe
+C:\Users\Erina\source\repos\Unity2021TaikePractice\CSharp01\bin\Debug\CSharp01.pdb
+C:\Users\Erina\source\repos\Unity2021TaikePractice\CSharp01\obj\Debug\CSharp01.csprojAssemblyReference.cache
+C:\Users\Erina\source\repos\Unity2021TaikePractice\CSharp01\obj\Debug\CSharp01.csproj.CoreCompileInputs.cache
+C:\Users\Erina\source\repos\Unity2021TaikePractice\CSharp01\obj\Debug\CSharp01.exe
+C:\Users\Erina\source\repos\Unity2021TaikePractice\CSharp01\obj\Debug\CSharp01.pdb

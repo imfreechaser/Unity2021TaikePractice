@@ -1,0 +1,12 @@
+C:\Users\Erina\source\repos\Unity2021TaikePractice\lesson15\bin\Debug\netcoreapp3.1\lesson15.exe
+C:\Users\Erina\source\repos\Unity2021TaikePractice\lesson15\bin\Debug\netcoreapp3.1\lesson15.deps.json
+C:\Users\Erina\source\repos\Unity2021TaikePractice\lesson15\bin\Debug\netcoreapp3.1\lesson15.runtimeconfig.json
+C:\Users\Erina\source\repos\Unity2021TaikePractice\lesson15\bin\Debug\netcoreapp3.1\lesson15.runtimeconfig.dev.json
+C:\Users\Erina\source\repos\Unity2021TaikePractice\lesson15\bin\Debug\netcoreapp3.1\lesson15.dll
+C:\Users\Erina\source\repos\Unity2021TaikePractice\lesson15\bin\Debug\netcoreapp3.1\lesson15.pdb
+C:\Users\Erina\source\repos\Unity2021TaikePractice\lesson15\obj\Debug\netcoreapp3.1\lesson15.AssemblyInfoInputs.cache
+C:\Users\Erina\source\repos\Unity2021TaikePractice\lesson15\obj\Debug\netcoreapp3.1\lesson15.AssemblyInfo.cs
+C:\Users\Erina\source\repos\Unity2021TaikePractice\lesson15\obj\Debug\netcoreapp3.1\lesson15.csproj.CoreCompileInputs.cache
+C:\Users\Erina\source\repos\Unity2021TaikePractice\lesson15\obj\Debug\netcoreapp3.1\lesson15.dll
+C:\Users\Erina\source\repos\Unity2021TaikePractice\lesson15\obj\Debug\netcoreapp3.1\lesson15.pdb
+C:\Users\Erina\source\repos\Unity2021TaikePractice\lesson15\obj\Debug\netcoreapp3.1\lesson15.genruntimeconfig.cache

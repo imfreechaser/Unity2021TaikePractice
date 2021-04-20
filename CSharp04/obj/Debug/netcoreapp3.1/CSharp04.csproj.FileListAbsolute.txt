@@ -1,0 +1,13 @@
+C:\Users\Erina\source\repos\Unity2021TaikePractice\CSharp04\bin\Debug\netcoreapp3.1\CSharp04.exe
+C:\Users\Erina\source\repos\Unity2021TaikePractice\CSharp04\bin\Debug\netcoreapp3.1\CSharp04.deps.json
+C:\Users\Erina\source\repos\Unity2021TaikePractice\CSharp04\bin\Debug\netcoreapp3.1\CSharp04.runtimeconfig.json
+C:\Users\Erina\source\repos\Unity2021TaikePractice\CSharp04\bin\Debug\netcoreapp3.1\CSharp04.runtimeconfig.dev.json
+C:\Users\Erina\source\repos\Unity2021TaikePractice\CSharp04\bin\Debug\netcoreapp3.1\CSharp04.dll
+C:\Users\Erina\source\repos\Unity2021TaikePractice\CSharp04\bin\Debug\netcoreapp3.1\CSharp04.pdb
+C:\Users\Erina\source\repos\Unity2021TaikePractice\CSharp04\obj\Debug\netcoreapp3.1\CSharp04.csprojAssemblyReference.cache
+C:\Users\Erina\source\repos\Unity2021TaikePractice\CSharp04\obj\Debug\netcoreapp3.1\CSharp04.AssemblyInfoInputs.cache
+C:\Users\Erina\source\repos\Unity2021TaikePractice\CSharp04\obj\Debug\netcoreapp3.1\CSharp04.AssemblyInfo.cs
+C:\Users\Erina\source\repos\Unity2021TaikePractice\CSharp04\obj\Debug\netcoreapp3.1\CSharp04.csproj.CoreCompileInputs.cache
+C:\Users\Erina\source\repos\Unity2021TaikePractice\CSharp04\obj\Debug\netcoreapp3.1\CSharp04.dll
+C:\Users\Erina\source\repos\Unity2021TaikePractice\CSharp04\obj\Debug\netcoreapp3.1\CSharp04.pdb
+C:\Users\Erina\source\repos\Unity2021TaikePractice\CSharp04\obj\Debug\netcoreapp3.1\CSharp04.genruntimeconfig.cache
