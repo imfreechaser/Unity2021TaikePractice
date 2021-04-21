@@ -11,3 +11,16 @@ C:\Users\Erina\source\repos\Unity2021TaikePractice\lesson20\obj\Debug\netcoreapp
 C:\Users\Erina\source\repos\Unity2021TaikePractice\lesson20\obj\Debug\netcoreapp3.1\lesson20.dll
 C:\Users\Erina\source\repos\Unity2021TaikePractice\lesson20\obj\Debug\netcoreapp3.1\lesson20.pdb
 C:\Users\Erina\source\repos\Unity2021TaikePractice\lesson20\obj\Debug\netcoreapp3.1\lesson20.genruntimeconfig.cache
+C:\Users\RayData\source\repos\Unity2021TaikePractice\lesson20\bin\Debug\netcoreapp3.1\lesson20.exe
+C:\Users\RayData\source\repos\Unity2021TaikePractice\lesson20\bin\Debug\netcoreapp3.1\lesson20.deps.json
+C:\Users\RayData\source\repos\Unity2021TaikePractice\lesson20\bin\Debug\netcoreapp3.1\lesson20.runtimeconfig.json
+C:\Users\RayData\source\repos\Unity2021TaikePractice\lesson20\bin\Debug\netcoreapp3.1\lesson20.runtimeconfig.dev.json
+C:\Users\RayData\source\repos\Unity2021TaikePractice\lesson20\bin\Debug\netcoreapp3.1\lesson20.dll
+C:\Users\RayData\source\repos\Unity2021TaikePractice\lesson20\bin\Debug\netcoreapp3.1\lesson20.pdb
+C:\Users\RayData\source\repos\Unity2021TaikePractice\lesson20\obj\Debug\netcoreapp3.1\lesson20.csprojAssemblyReference.cache
+C:\Users\RayData\source\repos\Unity2021TaikePractice\lesson20\obj\Debug\netcoreapp3.1\lesson20.AssemblyInfoInputs.cache
+C:\Users\RayData\source\repos\Unity2021TaikePractice\lesson20\obj\Debug\netcoreapp3.1\lesson20.AssemblyInfo.cs
+C:\Users\RayData\source\repos\Unity2021TaikePractice\lesson20\obj\Debug\netcoreapp3.1\lesson20.csproj.CoreCompileInputs.cache
+C:\Users\RayData\source\repos\Unity2021TaikePractice\lesson20\obj\Debug\netcoreapp3.1\lesson20.dll
+C:\Users\RayData\source\repos\Unity2021TaikePractice\lesson20\obj\Debug\netcoreapp3.1\lesson20.pdb
+C:\Users\RayData\source\repos\Unity2021TaikePractice\lesson20\obj\Debug\netcoreapp3.1\lesson20.genruntimeconfig.cache
